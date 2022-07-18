@@ -1,0 +1,20 @@
+.textos1{
+    font-weight: bold!important;
+
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.imagem{
+    background-image: url(/src/assets/images/imglogin.png);
+    background-repeat:no-repeat;
+    background-color: #0019F783;
+    border-radius: 40%;
+    width: 100vh;
+    min-height:100vh;
+    background-position:center;
+    
+}
+

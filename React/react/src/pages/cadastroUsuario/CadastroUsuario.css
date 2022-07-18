@@ -1,0 +1,17 @@
+.imagem2{
+    background-image: url(/src/assets/images/Humaaans-Space.png);
+    background-repeat:no-repeat;
+    background-color: #0019f722;
+    border-radius: 10px;
+    width: 75vh;
+    min-height:100vh;
+    background-position:center;
+    
+}
+.textos2{
+    font-weight: bold!important;
+}
+
+.btnCancelar{
+    margin-right: 20px !important;
+}
